@@ -1,23 +1,3 @@
----
-description: Hybrid Development Resource Orcestration
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: false
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # hydro Introduction
 
 hydro (Hybrid Development Resource Orchestration) is a methodology for managing software development in hybrid environments, where human engineers work with AI coding assistants to deliver complex features.&#x20;
