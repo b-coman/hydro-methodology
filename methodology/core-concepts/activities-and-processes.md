@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Activities and Processes
 
 Hydro methodology organizes work through distinct activities that occur throughout the development lifecycle. These activities are specifically designed for the hybrid AI-human world - they support fully programatic automations and proposelly focus on prior-development activities.
