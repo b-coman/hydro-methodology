@@ -1,5 +1,5 @@
 ---
-description: An Irresponsible Dull Ontology For Hybrid Development
+description: Hybrid Development Resource Orcestration
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
