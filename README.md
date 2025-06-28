@@ -1,97 +1,59 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: Methodology Implementation Support
+icon: square-terminal
 ---
 
-# Copy of hydro Introduction
+# Tooling
 
-hydro (Hybrid Development Resource Orchestration) is a methodology for managing software development in hybrid environments, where human engineers work with AI coding assistants to deliver complex features.
+The Hydro methodology requires tooling that can handle dependency analysis, wave orchestration, and AI-human collaboration workflows. Traditional project management tools weren't designed for these patterns.
 
-Unlike Scrum, Kanban and others, hydro focuses on unlocking tomorrow's development based on today's achivements. Its forward looking approach considers the increase velocity in writing code and the shift of the bottleneck from engineering to decision making.
+### Implementation Requirements
 
-Software development changed. But we still operate with the mindset of steam-powered machines when electricity just emerged.
+Any tool implementing Hydro needs to support:
 
-:exclamation:AI is the new electricity.
+* **Dependency-driven planning** rather than time-based sprints
+* **Wave assignment and tracking** based on dependency analysis
+* **AI task classification** and context management
+* **Human approval gates** at appropriate workflow points
+* **Progress tracking** focused on possibilities unlocked
 
-So let's electrify! :zap:
+### Reference Implementation
 
-***
+`ido4` serves as the reference implementation of these patterns:
 
-### 2025 State of The Nation
+```bash
+# Core workflow patterns
+ido4 set-dependencies 42 "Depends on: #15, #20"
+ido4 assign-wave 42
+ido4 classify-task 42 ai-reviewed
+ido4 status --waves
+```
 
-* **Vibe coding sucks** - There's no "vibe coding" for real software development
-* **Agile doesn't fit -** it's like burning horses as fuel just because horses are a mental model for power. What actually means a two-weeks sprint when an entire migration can be written in few hours?
-* **Story points estimations?** - Give a break, they were always a substitute for time. And complexity, what means now complexity from AI perspective?
-* **Time-based planning?** We knew all along that dependencies are the real constraint, not time
+**Platform support:** GitHub Projects, Jira (in development)\
+**AI assistant support:** Claude Code, Gemini CLI, OpenAI Codex (planned)\
+**Status:** Active development, early access available
 
-Let's look how the spint concept looks like by its definition in Scrum:
+### Integration Considerations
 
-Per Scrum Book, we have two essential elements in the tradition software development project management:
+Effective Hydro implementation requires:
 
-* Iteration aka Sprints - usually two weeks for 99% of the teams
-* Sprint Goals - usually understood as scope, or as value delivered to the user
+* **Project management integration** - visualization and hybrid team collaboration
+* **Workflow state management** - this goes beyond standard project tools
+* **AI assistant integration** - context and execution management
+* **Team analytics** - workflow optimization
 
-Ideally the sprint goals is achieved within a sprint - otherwise the entire concept of fast iterating and course correction lose its sense.
+### Alternative Implementations
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>scrum by the book</p></figcaption></figure>
+Hydro methodology is tool-agnostic. Teams could build implementations using:
 
-But in reality sprints are nothing more than an arbirtary time frame that nobody cares about. The goal achivements and scope delivery looks like in the image below. Creep, spillovers and stories that are replicate across multiple sprints.
-
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>scrum in reality</p></figcaption></figure>
-
-In AI world the things started to be even worse, especially with the new "vibe" of "vide coding". AI assistant does things super fast but irronically they never end. Refactorings, multiple versions, architecture breaks and bugs all over the place - AI it's like an young and powerfull stallion without a rider.
-
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>vibe coding with scrum</p></figcaption></figure>
-
-For an AI coding hybrid environment the real constrains are context windows, dependencies and architecture decisions. Not time, not compelxity.
-
-***
-
-### The ido4 Way
-
-We propose a paradigm shift.
-
-From _"What can our team build in 2 weeks?" &#x74;_&#x6F; _"What decision should we make next?"_
-
-The real bottleneck isn't dev teams anymore. It's on decision makers.
-
-***
-
-### How it works
-
-**Rolling context**\
-→ Keep continuous context to overcome AI assistant limitations
-
-**Waves replace sprints**\
-→ Work flows when dependencies clear, not when calendars say
-
-**AI does what AI does best**\
-→ Pattern implementation, test generation, boilerplate code
-
-**Humans do what humans do best**\
-→ Architecture, decisions, validation, strategy
-
-**Measure possibilities, not time**\
-→ Track capabilities unlocked, not story points burned
-
-***
-
-### What We're Exploring
-
-This is our attempt to formalize what some teams are already discovering: d**evelopment with AI assistants requires different thinking.** We're documenting patterns that work and sharing them.
+* Other project management platforms (Jira, Linear, Azure DevOps)
+* Different AI coding assistants (GitHub Copilot, custom solutions)
+* Alternative CLI approaches
+* Integration with existing dev tools
 
 ***
 
 {% hint style="info" %}
-Hydro Methodology © 2025\
+Hydro Methodology © 2025 \
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
 {% endhint %}

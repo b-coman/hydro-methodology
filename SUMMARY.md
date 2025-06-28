@@ -1,6 +1,7 @@
 # Table of contents
 
-* [hydro Introduction](README.md)
+* [Tooling](README.md)
+* [hydro Introduction](<README (1).md>)
 
 ## Getting Started
 
@@ -23,7 +24,6 @@
 
 ## Basics
 
-* [Tooling](basics/cli.md)
 * [hydronizing POM](basics/hydronizing-produc-operating-model.md)
 * [Join Pioneer Program](basics/pioneer.md)
 * [FAQ](basics/faq.md)
