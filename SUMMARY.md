@@ -24,7 +24,7 @@
 ## Basics
 
 * [Tooling](basics/cli.md)
-* [hydronizing POM](basics/hydronizing-produc-operating-model.md)
+* [POM + hydro Partnership](basics/hydronizing-product-operating-model.md)
 * [hydro vs Scrum](basics/hydro-vs-scrum.md)
 * [Join Pioneer Program](basics/pioneer.md)
 * [FAQ](basics/faq.md)
