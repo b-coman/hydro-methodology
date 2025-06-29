@@ -90,10 +90,10 @@ Hydro recommends dependencies being identified during the **Refinement** phase (
 
 Here is a proposal of how a systematic process of dependency analysis and wave assignment can be implemented programatically
 
-1. **Step 1**: Set dependencies using format "Depends on: #X, #Y" or "No dependencies"
-2. **Step 2**: AI analyzes dependencies and assigns appropriate wave based on dependency depth
+1. **Step 1 - s**et dependencies using format "Depends on: #X, #Y" or "No dependencies"
+2. **Step 2 -** AI analyzes dependencies and assigns appropriate wave based on dependency depth
 3. **Validation**: Epic integrity maintained - all epic tasks remain in same wave
-4. **Override**: Manual wave assignment possible with dependency conflict validation
+4. **Override**: manual wave assignment possible with dependency conflict validation
 
 ```python
 def systematic_dependency_analysis(tasks, epics):

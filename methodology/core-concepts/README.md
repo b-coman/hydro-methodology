@@ -26,6 +26,8 @@ In the following section we'll describe the first three, and the 4th, Tools, wil
 
 ## Flow Principles: Why This Works
 
+<mark style="color:red;">**NOT SURE. YET ABOUT THIS PART. IGNORE.**</mark>
+
 Understanding the underlying principles that make Hydro effective helps teams adopt the methodology successfully and adapt it to their specific environments.
 
 #### Dependency-Driven Flow vs Time-Boxing

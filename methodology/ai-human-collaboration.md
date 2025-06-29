@@ -6,7 +6,7 @@ icon: '3'
 
 The success of Hydro methodology depends on effective collaboration between humans and AI assistants. Rather than treating AI as a tool, Hydro positions AI as a collaborative partner with specific strengths that complement human expertise.
 
-### Collaboration Philosophy
+### Collaboration philosophy
 
 Traditional approaches treat all tasks the same, leading to either AI under-utilization or human bottlenecks. Hydro's task classification (detailed in Core Concepts) creates a multiplication effect - AI accelerates routine work while humans focus on high-value decisions and complex problem-solving.
 
@@ -85,7 +85,7 @@ Human makes strategic choices and defines integration approach
 AI assists with boilerplate and utility generation
 ```
 
-#### Communication Patterns
+#### Communication patterns
 
 Effective collaboration is a key aspect in AI-human mixed environments. And this collaboration requires structured channels and patterns that optimize information flow between human strategic thinking and AI execution capabilities.
 
@@ -111,7 +111,7 @@ The communication design - from methodology training to tooling capabilities - i
 
 ### Team Integration and Role Evolution
 
-#### Product Manager&#x20;
+#### 1. Product Manager&#x20;
 
 **Traditional role**: feature coordination and backlog management\
 **Hydro role**: business outcome architect and AI collaboration coordinator
@@ -122,7 +122,7 @@ Changed / new responsibilities:
 * Validate AI-generated implementations for business logic accuracy
 * Focus on strategic product decisions
 
-#### Technical Lead&#x20;
+#### 2. Technical Lead&#x20;
 
 **Traditional role**: code review and technical decision making\
 **Hydro role**: AI collaboration orchestrator and architectural decision maker
@@ -134,7 +134,7 @@ Changed / new responsibilities:
 * Validate AI-generated code for architectural consistency and integration quality
 * Focus on system design while AI handles implementation details
 
-#### Engineer
+#### 3. Engineer
 
 **Traditional role**: code and testing\
 **Hydro role**: business logic specialist and AI collaboration partner
@@ -187,41 +187,19 @@ Teams work faster because everyone understands what needs to be built and how th
 
 ***
 
-### Success Indicators
+#### When to adjust collaboration elements
 
-#### Collaboration Effectiveness Metrics
-
-**AI Performance by Classification**:
-
-* AI-Ready tasks: >90% first-pass human approval
-* AI-Assisted tasks: >70% success with minor human refinement
-* Hybrid tasks: Smooth collaboration without excessive context switching
-
-**Human Performance Evolution**:
-
-* Increased time spent on architectural and strategic decisions
-* Reduced time on routine implementation and boilerplate generation
-* Higher satisfaction with focus on high-value problem solving
-
-**Team Performance Indicators**:
-
-* Faster capability delivery through optimal task allocation
-* Higher quality through specialized expertise application
-* Improved business alignment through integrated product-engineering collaboration
-
-#### When to Adjust Collaboration Patterns
-
-**Reclassification Triggers**:
+**Reclassification triggers**:
 
 * AI consistently struggles with classified AI-Ready tasks → Move to AI-Assisted
 * Human constantly overriding AI suggestions → Move to Hybrid or Human-Only
 * AI handling complex tasks well → Consider moving Hybrid to AI-Assisted
 
-**Team Adaptation Signals**:
+**Team signals**:
 
-* Collaboration friction indicating misaligned expectations
-* Quality issues suggesting inadequate human validation
-* Velocity problems indicating suboptimal task allocation
+* Collaboration friction → misaligned expectations
+* Quality issues → inadequate human validation
+* Velocity problems → suboptimal task allocation
 
 The goal is continuous evolution of collaboration patterns that maximize both human expertise and AI capabilities while delivering superior business outcomes.
 

@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: water
 ---
 
@@ -12,17 +13,17 @@ Hydro emerges from this evolution: a methodology that doesn't replace product ma
 
 ***
 
-### The Product Management Evolution Challenge
+### The Product Management evolution challenge
 
-#### Beyond Frameworks: The Collapse of Prescriptive Methodologies
+#### Beyond frameworks: the collapse of time-prescriptive methodologies
 
 The prescriptive frameworks we've been following for years are hitting a wall. Not because agility itself is flawed, but because the commercialized version of "Agile" has lost its way. **And AI is accelerating this collapse.**
 
-When a product team can build a fully working MVP in a week instead of a quarter, that's not incremental improvement - that's a paradigm shift. **Code is outrunning decision.** The assembly line now operates at 10x speed, but can the decision-making processes keep up?
+When a product team can build a fully working MVP in a week instead of a quarter, that's more incremental improvement - that's a paradigm shift. **Code is outrunning decision.** The assembly line now operates at 10x speed, but can the decision-making processes keep up?
 
 **The Core Problem**: We've been treating software development like factory work for too long, optimizing for resource utilization rather than outcome achievement. Now we have exactly what we wished for - an assembly line that operates on fast-forward. But when your production line moves 10x faster, can your supply chain keep up?
 
-#### The Maturity Gap: Most Organizations Aren't Ready
+#### The Maturity Gap: most orgs aren't ready
 
 Through extensive work with product organizations, a clear pattern emerges: most teams are stuck in reactive, process-heavy approaches that create coordination overhead rather than value delivery.
 
@@ -58,7 +59,7 @@ Through extensive work with product organizations, a clear pattern emerges: most
 * Adaptive methodology that evolves with capabilities and market needs
 * **What becomes possible with AI-augmented product development**
 
-**Key Insight**: Organizations at the Defined level or above can leverage AI to accelerate toward Optimizing, but those below lack the foundational discipline to handle AI's velocity effectively.
+**Key Insight** → Organizations at the Defined level or more advanced can take advantage of AI to accelerate toward Optimizing, but those above lack the foundational discipline to handle AI's velocity effectively.
 
 #### The Ownership Crisis: Who's Really Accountable?
 
@@ -101,7 +102,7 @@ The fundamental challenge isn't technical - it's organizational. **Ownership doe
 
 **Core Axiom**: Ownership sits where the work happens. You can't hold someone accountable for something they don't control.
 
-**The Trust-Ownership-Accountability Chain**:
+The Trust-Ownership-Accountability Chain:
 
 1. **Trust**: Leadership trusts teams to make good decisions
 2. **Ownership**: Teams take responsibility for both approach and outcomes
@@ -109,18 +110,18 @@ The fundamental challenge isn't technical - it's organizational. **Ownership doe
 
 **AI Integration**: AI doesn't change ownership principles - it clarifies them. When AI can implement solutions rapidly, the person defining the problem and validating the solution naturally becomes the owner. This creates organic convergence between product thinking and technical execution.
 
-**Anti-Patterns to Avoid**:
+Anti-Patterns to Avoid:
 
-* **The HiPPO Problem**: Highest Paid Person's Opinion overrides data and team judgment
-* **Micromanagement**: Every decision requires approval, eliminating real ownership
-* **Distributed Accountability**: Blame gets passed around instead of clear ownership being established
+* **The HiPPO Problem** → Highest Paid Person's Opinion overrides data and team judgment
+* **Micromanagement** → every decision requires approval, eliminating real ownership
+* **Distributed Accountability** → blame gets passed around instead of clear ownership being established
 
 #### Product Team Evolution: From Coordination to Collaboration
 
 **Traditional Product Trio**: Product Manager + Designer + Tech Lead
 
-* **Challenge**: Handoff-driven collaboration with communication overhead
-* **AI Opportunity**: Enhanced trio becomes Product Manager + Designer + Tech Lead + AI Assistant
+* Challenge: Handoff-driven collaboration with communication overhead
+* AI Opportunity: Enhanced trio becomes Product Manager + Designer + Tech Lead + AI Assistant
 
 **Team Transformation Principles**:
 

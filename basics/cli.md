@@ -7,15 +7,15 @@ icon: square-terminal
 
 The Hydro methodology requires tooling that can handle dependency analysis, wave orchestration, and AI-human collaboration workflows. Traditional project management tools weren't designed for these patterns.
 
-### Implementation Requirements
+### Implementation requirements
 
-Any tool implementing Hydro needs to support:
+Here are few important requirements that any tool that implement Hydro should follow and support.
 
-* **Dependency-driven planning** rather than time-based sprints
-* **Wave assignment and tracking** based on dependency analysis
-* **AI task classification** and context management
-* **Human approval gates** at appropriate workflow points
-* **Progress tracking** focused on possibilities unlocked
+* Dependency-driven planning rather than time-based sprints
+* Wave assignment and tracking based on dependency analysis
+* AI task classification and context management
+* Human approval gates at appropriate workflow points
+* Progress tracking focused on possibilities unlocked
 
 ### Reference Implementation
 
@@ -37,10 +37,10 @@ ido4 status --waves
 
 Effective Hydro implementation requires:
 
-* **Project management integration** - visualization and hybrid team collaboration
-* **Workflow state management** - this goes beyond standard project tools
-* **AI assistant integration** - context and execution management
-* **Team analytics** - workflow optimization
+* Project management integration - visualization and hybrid team collaboration
+* Workflow state management - this goes beyond standard project tools
+* AI assistant integration - context and execution management
+* Team analytics - workflow optimization
 
 ### Alternative Implementations
 

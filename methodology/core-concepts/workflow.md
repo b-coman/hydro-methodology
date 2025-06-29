@@ -105,7 +105,7 @@ Each state change requires specific conditions to be met, preventing premature a
 * **In Review**: Code quality, business logic accuracy, integration compatibility
 * **Done**: Complete validation against Definition of Done criteria
 
-_Note: Advanced implementations may include automated cascade analysis for dependency unblocking and priority calculation for optimal task sequencing, empowering the methodology through specialized tooling._
+_Note: advanced implementations may include automated cascade analysis for dependency unblocking and priority calculation for optimal task sequencing, empowering the methodology through specialized tooling._
 
 ***
 

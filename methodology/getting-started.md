@@ -4,6 +4,8 @@ icon: '5'
 
 # Getting Started
 
+### <mark style="color:red;">NOT YET DONE. PLEASE IGNORE</mark>
+
 ### Getting Started: Implementation Resources
 
 For teams and organizations interested in experimenting with Hydro methodology:

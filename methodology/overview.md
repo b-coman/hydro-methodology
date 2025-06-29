@@ -14,15 +14,15 @@ Every senior developer and product manager recognizes this pattern:
 
 **The Traditional Scrum Reality**:
 
-* **Rigid Time Boundaries**: Work forced into 2-week containers regardless of natural completion
-* **Isolated Work Streams**: Product/UX work happens separately from engineering
-* **Hidden Upstream Work**: Discovery and design occur in silos, creating handoff friction
-* **Ceremony Overhead**: Constant cycle of refinement → planning → refinement → planning
-* **No Real Value**: "No real value delivered during singular sprints" + "constant spillovers"
-* **Engineering Bottleneck**: Developers become order-takers rather than collaborative problem-solvers
-* **Meeting Fatigue**: "Too. Many. Meetings" - process overhead dominates productive time
+* Work forced into 2-week containers regardless of natural completion
+* Product/UX work happens separately from engineering
+* Discovery and design occur in silos, creating handoff friction
+* Constant cycle of refinement → planning → refinement → planning
+* No real value delivered during singular sprints + constant spillovers
+* Developers become order-takers rather than collaborative problem-solvers
+* Meeting Fatigue - process overhead dominates productive time
 
-**The Core Issue**: Traditional methodologies were designed for purely human teams, but we now work in hybrid AI-human environments where these constraints create artificial friction rather than enabling flow.
+Traditional methodologies were designed for purely human teams, but we now work in hybrid AI-human environments where these constraints create artificial friction rather than enabling flow.
 
 ***
 
@@ -32,12 +32,12 @@ Every senior developer and product manager recognizes this pattern:
 
 **The Hydro Reality**:
 
-* **Natural Wave Boundaries**: Work completes when dependencies are satisfied and quality gates pass
-* **Integrated Teams**: 2-3 engineers + product working as a cohesive unit
-* **Continuous Discovery**: Solutioning, design, and technical decisions running alongside implementation
-* **Flow-Based Completion**: Waves cascade naturally across time based on actual completion
-* **Built-in Learning**: Each cycle ends with reflection and methodology evolution
-* **AI-Human Collaboration**: Different task types optimize for AI capabilities while maintaining human expertise
+* Work completes when dependencies are satisfied and quality gates pass
+* **Integrated Teams -** 2-3 engineers + product working as a cohesive unit
+* Solutioning, design, and technical decisions running alongside implementation
+* Waves cascade naturally across time based on actual completion
+* Each cycle ends with reflection and methodology evolution
+* Different task types optimize for AI capabilities while maintaining human expertise
 
 **Why "Hydro"?** Like water finding the most efficient path around obstacles, Hydro enables work to flow naturally around dependencies and constraints while maintaining direction toward business objectives.
 
