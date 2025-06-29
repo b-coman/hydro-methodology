@@ -1,11 +1,8 @@
 ---
-hidden: false
 icon: water
 ---
 
-# POM + hydro: The Perfect Partnership
-
-
+# in Product Operating Model
 
 Product Operating Models (POM) provide the strategic framework for creating customer value. hydro provides the execution methodology for the AI era. Together, they create something powerful: a world where Product Managers can test ideas at the speed of thought, and engineers become true product partners rather than ticket-takers.
 
@@ -15,18 +12,22 @@ This isn't about replacing POM - it's about supercharging it. When AI handles im
 
 ### Why POM + hydro = Magic
 
-The best Product Operating Models emphasize customer outcomes, continuous discovery, and empowered teams. hydro doesn't change these principles - it turbocharges them:
+Product Operating Models emphasizes outcomes, continuous discovery, and empowered teams. hydro doesn't change these principles. It turbocharges them:
 
-**POM Best Practice**: Continuous Discovery
+**POM Best Practice**: Continuous Discovery&#x20;
+
 **hydro Enhancement**: Test 10 ideas in the time it used to take to test one. PMs can validate hypotheses with working prototypes in hours, not weeks.
 
-**POM Best Practice**: Customer-Centric Decisions  
+**POM Best Practice**: Customer-Centric Decisions
+
 **hydro Enhancement**: Engineers participate in customer conversations because they're freed from implementation details to understand the "why" behind the "what."
 
-**POM Best Practice**: Empowered Product Teams
+**POM Best Practice**: Empowered Product Teams&#x20;
+
 **hydro Enhancement**: Teams ship when ready, not when sprints end. True empowerment means controlling your own delivery cadence.
 
-**POM Best Practice**: Data-Informed Iteration
+**POM Best Practice**: Data-Informed Iteration&#x20;
+
 **hydro Enhancement**: Get real usage data faster because features ship in days. Learn and adapt at market speed.
 
 The convergence is natural: When implementation is no longer the bottleneck, product people and engineers naturally focus on the same thing - understanding and solving customer problems.
@@ -154,17 +155,18 @@ Anti-Patterns to Avoid:
 **The AI Effect**: AI doesn't replace team members - it elevates their contributions:
 
 **Product Manager Evolution**:
-- Before: "Let me write a detailed PRD and wait 3 sprints for results"
-- After: "Let me test this hypothesis with a working prototype today"
-- Result: PMs become more experimental, data-driven, and customer-connected
+
+* Before: "Let me write a detailed PRD and wait 3 sprints for results"
+* After: "Let me test this hypothesis with a working prototype today"
+* Result: PMs become more experimental, data-driven, and customer-connected
 
 **Engineer Evolution**:
-- Before: "Give me the requirements, I'll build it"
-- After: "Let's understand the customer problem and architect the best solution"
-- Result: Engineers become product thinkers who shape strategy, not just execute it
 
-**The Beautiful Convergence**:
-When the PM says "I wonder if customers would prefer X over Y" and the engineer can respond "Let's build both and test them this afternoon" - that's when magic happens. The traditional handoff friction disappears, replaced by collaborative problem-solving.
+* Before: "Give me the requirements, I'll build it"
+* After: "Let's understand the customer problem and architect the best solution"
+* Result: Engineers become product thinkers who shape strategy, not just execute it
+
+**The Beautiful Convergence**: When the PM says "I wonder if customers would prefer X over Y" and the engineer can respond "Let's build both and test them this afternoon" - that's when magic happens. The traditional handoff friction disappears, replaced by collaborative problem-solving.
 
 ***
 
@@ -244,18 +246,20 @@ Hydro isn't another framework imposed from above. It's the natural methodology t
 
 **Real Example - Payment Feature Discovery**:
 
-*Traditional Approach*:
-- PM researches payment options for 2 weeks
-- Writes detailed PRD with mockups
-- Engineers estimate 6 weeks to build
-- 3 months later: discover customers wanted something different
+_Traditional Approach_:
 
-*POM + hydro Approach*:
-- Monday: PM and engineer discuss customer payment friction
-- Tuesday: AI implements 3 different payment flows based on their collaborative design
-- Wednesday: Deploy all 3 as A/B/C test to subset of users
-- Thursday: Data shows clear winner, unexpected insight emerges
-- Friday: Ship winning version with refinements based on user behavior
+* PM researches payment options for 2 weeks
+* Writes detailed PRD with mockups
+* Engineers estimate 6 weeks to build
+* 3 months later: discover customers wanted something different
+
+_POM + hydro Approach_:
+
+* Monday: PM and engineer discuss customer payment friction
+* Tuesday: AI implements 3 different payment flows based on their collaborative design
+* Wednesday: Deploy all 3 as A/B/C test to subset of users
+* Thursday: Data shows clear winner, unexpected insight emerges
+* Friday: Ship winning version with refinements based on user behavior
 
 The PM is empowered with rapid validation. The engineer is engaged with customer impact. Both own the outcome together.
 
@@ -438,6 +442,6 @@ _Hydro methodology emerges from this convergence: a practical approach to AI-era
 ***
 
 {% hint style="info" %}
-Hydro Methodology © 2025 \
+Hydro Methodology © 2025\
 Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)
 {% endhint %}
