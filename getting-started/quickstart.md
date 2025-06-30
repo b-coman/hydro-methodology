@@ -30,7 +30,8 @@ The mismatch between tooling capabilities and process design is becoming apparen
 
 * Strategic decisions and planning: 15-20%
 * AI oversight and validation: 25-30%
-* Complex logic and architecture: 40-45%Testing and documentation: 5-10% (automated)
+* Complex logic and architecture: 40-45%
+* Testing and documentation: 5-10% (automated)
 
 The shift in time allocation is substantial. More human effort goes toward design and validation, less toward implementation mechanics.
 
@@ -58,45 +59,50 @@ The division of capabilities is becoming clearer over time.
 
 ## Economic Comparison
 
-**Traditional 5-person team ($150K FTE average):**
+| Metric               | Traditional Dev Team | AI-Assisted Dev Team | Improvement     |
+| -------------------- | -------------------- | -------------------- | --------------- |
+| **Team Size**        | 5 engineers          | 2 engineers          | 60% reduction   |
+| **Annual Cost**      | $750K                | $360K + tooling      | \~50% reduction |
+| **Quarterly Output** | 8-12 features        | 15-25 features       | 2x increase     |
+| **Technical Debt**   | Accumulating         | Managed              | ✓               |
+| **Test Coverage**    | 60-70%               | 90%+                 | +30%            |
 
-```
-Annual cost: $750K
-Features per quarter: 8-12
-Technical debt: Accumulating
-Test coverage: 60-70%
-```
+## Evidence Base
 
-**AI-assisted 2-person team ($180K FTE average):**
+Here is how a hydro implementation can help:
 
-```
-Annual cost: $360K + tooling
-Features per quarter: 15-25
-Technical debt: Managed through automation
-Test coverage: 90%+
-```
+* **E-commerce platform:** 12-week authentication system completed in 3 weeks with expanded scope.
+* **SaaS startup:** Team reduced from 3 developers to 1 developer + AI while increasing output.
+* **Enterprise migration:** one-year project completed in 4 months with better quality metrics.
 
-The numbers reflect different approaches to work allocation and automation.
+The pattern across different contexts shows similar productivity improvements and timeline compression.
 
 ## Emerging Patterns
 
 #### Teams Using AI-Assisted Development
 
-* Continuous deployment replacing bi-weekly releases
+* Continuous deployment replacing release cadence
 * 90%+ test coverage as standard practice
 * Senior developers focused on architecture
 * Rapid response to market changes
-* Reduced time on implementation details
 
 #### Teams Using Traditional Processes
 
 * Process overhead for human coordination
-* Senior developers writing generatable code
-* Manual testing and variable coverage
+* Senior developers writing general code
+* Mostly manual testing and variable coverage
 * Longer feedback cycles
 * Significant time on repetitive work
 
-Different approaches are producing different outcomes.
+## Decision Framework
+
+Organizations face three general approaches:
+
+* **Maintain current processes** while gradually adding AI tools as assistants to existing workflows.
+* **Hybrid adoption** where some AI capabilities are integrated but core processes remain unchanged.
+* **Process redesign** to optimize for AI-human collaboration patterns.
+
+Each approach produces different outcomes in terms of productivity, quality, and developer experience.
 
 ## Implementation Timeline
 
@@ -117,38 +123,6 @@ Months 3-6: Process optimization and refinement
 * Team workflow adjustments
 
 The transition involves both technical and organizational elements.
-
-## The Technical Reality
-
-AI coding capabilities have reached a threshold where traditional development processes create artificial constraints. The tools can generate working implementations faster than humans can type them, yet most workflows still optimize for human typing speed.
-
-**The fundamental question:** Should processes evolve to match available capabilities?
-
-**Current state:** Most teams are using 2025 tools with 2015 processes.
-
-**Alternative state:** Redesign processes around current AI capabilities.
-
-The gap between these approaches is measurable in both productivity metrics and developer experience.
-
-## Decision Framework
-
-Organizations face three general approaches:
-
-* **Maintain current processes** while gradually adding AI tools as assistants to existing workflows.
-* **Hybrid adoption** where some AI capabilities are integrated but core processes remain unchanged.
-* **Process redesign** to optimize for AI-human collaboration patterns.
-
-Each approach produces different outcomes in terms of productivity, quality, and developer experience.
-
-## Evidence Base
-
-Here is how an ido4 implementation can help:
-
-* **E-commerce platform:** 12-week authentication system completed in 3 weeks with expanded scope.
-* **SaaS startup:** Team reduced from 3 developers to 1 developer + AI while increasing output.
-* **Enterprise migration:** one-year project completed in 4 months with better quality metrics.
-
-The pattern across different contexts shows similar productivity improvements and timeline compression.
 
 ## Path Forward
 
