@@ -1,8 +1,8 @@
 ---
-icon: water
+icon: heart
 ---
 
-# in Product Operating Model
+# hydro & POM
 
 Product Operating Models (POM) provides strategic framework for creating customer value.&#x20;
 

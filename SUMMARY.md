@@ -27,7 +27,7 @@
 
 * [Tooling](more/cli.md)
 * [hydro vs Scrum](more/hydro-vs-scrum.md)
-* [in Product Operating Model](more/hydronizing-product-operating-model.md)
+* [hydro & POM](more/hydronizing-product-operating-model.md)
 * [Join Pioneer Program](more/pioneer.md)
 * [FAQ](more/faq.md)
 * [Contributors](more/contributors.md)
