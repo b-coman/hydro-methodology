@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Flow Principles
 
 Flow principles explain why dependency-driven development works better than time-boxed sprints in the AI era. Understanding these principles helps teams implement hydro effectively and adapt it to their specific context.
