@@ -19,41 +19,49 @@ And as usual, the processes hold us back.
 
 ### What We Leave Behind
 
-**Time-based planning** → dependencies are the only constraint that matters\
-**Story point estimation** → AI implementation is deterministic, not probabilistic\
-**Synchronized ceremonies** → the work flows when blockers clear, not when calendars permit\
-**Feature counting** → value is measured by goals achieved\
-**Human-scale thinking** → AI enables superhuman execution speed
+**✘ Time-based planning** → dependencies are the only constraint that matters
+
+**✘ Story point estimation** → AI implementation is deterministic, not probabilistic
+
+**✘ Prescriptive ceremonies** → the work flows when blockers clear, not when calendars permit
+
+**✘  Feature counting** → value is measured by goals achieved
+
+**✘ Human-scale thinking** → AI enables superhuman execution speed
 
 ***
 
 ### The Four Pillars of Possibility-Driven Development
 
-#### **Human Decisions Over AI Automation**
+#### **HUMAN decisions over AI automation**
 
-While AI can implement at superhuman speed, humans must define value, make architectural choices, and ensure ethical outcomes. The bottleneck has shifted from implementation to decision-making.
+While AI can implement at speed, humans must define value, make architectural choices, and ensure ethical outcomes. The bottleneck has shifted from implementation to decision-making.
 
-#### Goal Achievement Over Time-Boxed Delivery
+#### GOAL achievement over TIME-boxed delivery
 
 Progress should be measured by new capabilities unlocked, not adherence to arbitrary deadlines. Each completed task should enable multiple new possibilities.
 
-#### **Dependency Clarity Over Estimation Accuracy**
+#### **DEPENDENCY clarity over ESTIMATION accuracy**
 
 Understanding what blocks progress matters most. When AI can implement in minutes, dependencies become the critical path → at lightspeed, time no longer even exists.
 
-#### **Continuous Flow Over Synchronized Ceremonies**
+#### **Continuous FLOW over CEREMONIES**
 
 Work should flow as dependencies clear, not wait for  meetings. Replace sprints with waves that crash when ready, not when time expires.
 
 ***
 
-### The ido4 Way
+### The hydro Way
 
-**We architect possibilities** instead of managing time\
-**We clear dependencies** instead of estimating effort\
-**We measure goals** instead of counting features\
-**We design systems** instead of typing code\
-**We validate outcomes** instead of reviewing syntax
+**✔︎ We architect possibilities** instead of managing time
+
+**✔︎ We clear dependencies** instead of estimating effort
+
+**✔︎ We measure goals** instead of counting features
+
+**✔︎ We design systems** instead of typing code
+
+**✔︎ We validate outcomes** instead of reviewing syntax
 
 ***
 
@@ -73,7 +81,6 @@ Work should flow as dependencies clear, not wait for  meetings. Replace sprints 
 
 Teams adopting possibility-driven development experience:
 
-* **10x faster delivery** through parallel AI execution
 * **75% reduction** in time-to-market
 * **90% first-pass** code quality with comprehensive testing
 * **Developers elevated** from implementers to architects
@@ -91,11 +98,11 @@ Or we can build something better.
 
 ***
 
-_"In the age of AI, we don't manage time—we architect possibilities."_
+_"In the age of AI, we don't manage time. We architect possibilities."_
 
 ***
 
-**The ido4 Manifesto**\
+**The hydro Manifesto**\
 &#xNAN;_&#x56;ersion 1.0 | 2025_
 
 ***
