@@ -111,7 +111,14 @@ The technical part is straightforward. The organizational part requires courage 
 
 ## The Path Forward
 
-Ready to stop leaving money and time on the table? The manifesto that follows shows you how teams are making this transition. It's not about working harder, it's only about working differently (aka adapted).
+For teams considering this transition, the process typically involves:
+
+1. Understanding the methodology and principles
+2. Evaluating tooling options and integration requirements
+3. Planning a pilot implementation
+4. Gradual rollout with continuous refinement
+
+The technical aspects are straightforward. The organizational aspects require thoughtful change management.
 
 ***
 
