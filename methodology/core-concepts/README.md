@@ -16,7 +16,7 @@ Hydro is first and foremost a simplified Agile methodology ready to be used in a
 
 FEW WORDS> DIAGRAM
 
-In the following section we'll describe the first three, and the 4th, Tools, will be discussed in separate section, [here](../../basics/cli.md).
+In the following section we'll describe the first three, and the 4th, Tools, will be discussed in separate section, [here](../../more/cli.md).
 
 ***
 

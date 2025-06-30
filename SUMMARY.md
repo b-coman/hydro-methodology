@@ -21,11 +21,11 @@
 * [Enterprise Implementation](methodology/enterprise-implementation.md)
 * [Getting Started](methodology/getting-started.md)
 
-## Basics
+## More
 
-* [Tooling](basics/cli.md)
-* [hydro vs Scrum](basics/hydro-vs-scrum.md)
-* [in Product Operating Model](basics/hydronizing-product-operating-model.md)
-* [Join Pioneer Program](basics/pioneer.md)
-* [FAQ](basics/faq.md)
-* [Contributors](basics/contributors.md)
+* [Tooling](more/cli.md)
+* [hydro vs Scrum](more/hydro-vs-scrum.md)
+* [in Product Operating Model](more/hydronizing-product-operating-model.md)
+* [Join Pioneer Program](more/pioneer.md)
+* [FAQ](more/faq.md)
+* [Contributors](more/contributors.md)
