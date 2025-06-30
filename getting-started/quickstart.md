@@ -34,6 +34,8 @@ This isn't theoretical. It's happening now.
 | **Technical Debt**       | Accumulating           | Managed through automation |
 | **Test Coverage**        | 60-70%                 | 90%+                       |
 
+Something interesting is happening in software development. AI coding assistants have reached a level of capability where they can reliably generate working code, comprehensive tests and documentation. Yet development processes remain largely unchanged from the pre-AI era.
+
 Half the cost. Double the output. Better quality.&#x20;
 
 ## What Changed
