@@ -12,6 +12,38 @@ What's changed isn't Scrum's principles, but the fundamental constraints of soft
 
 hydro is that evolution. It keeps what works in Scrum while adapting to a world where AI is a full development partner.
 
+### **The Sprint Reality Check**
+
+Let's look at how the Sprint concept works in practice. Per the Scrum Guide, we have two key elements:
+
+* **Iteration (Sprints)** - usually two weeks for most teams
+* **Sprint Goal** - scope or value delivered to users in one Sprint
+
+Ideally, a Sprint goal is achieved within a Sprint - otherwise the concept of fast iteration and course correction loses its meaning.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+In reality, many teams experience something different. Sprint boundaries become arbitrary time frames, with scope creeping across multiple sprints, spillovers, and stories that replicate across iterations.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+### The AI Development Challenge
+
+When AI assistants enter the picture, the dynamics shift again. AI can implement features incredibly fast, but without proper guidance, that speed creates new challenges. Code gets generated quickly, but architecture decisions, context management, and quality validation become the real bottlenecks.
+
+Think of AI as a powerful stallion - incredible capability that needs the right rider. The constraint shifts from time and complexity to context windows, dependencies, and architecture decisions.
+
+**\[IMAGE 3 PLACEHOLDER: Hydro waves - clean flowing completion without artificial boundaries]**
+
+For AI-enhanced development, the real constraints are no longer time and complexity, but rather:
+
+* Context management across development sessions
+* Dependency coordination between features
+* Architecture decisions that guide implementation
+* Quality validation of AI-generated code
+
+***
+
 ## What Stays the Same
 
 The good news is that most of Scrum's core values translate directly to hydro:
