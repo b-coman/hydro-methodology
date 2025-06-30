@@ -27,7 +27,7 @@ The difference between these approaches becomes clear when you see them in pract
 | **Work completes when...**  | Sprint ends               | Quality gates pass           |
 | **Progress measured by...** | Story points delivered    | Capabilities unlocked        |
 | **Planning focuses on...**  | "What fits in 2 weeks?"   | "What should we build next?" |
-| **Bottleneck is...**        | Human capacity            | Decision making              |
+| **Bottleneck is...**        | Dev capacity              | Decision making              |
 | **Optimization target...**  | Sprint velocity           | Flow efficiency              |
 
 Instead of asking _"How much can we squeeze into this sprint?"_, you ask "_What's ready to flow with the wave?"_

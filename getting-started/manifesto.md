@@ -35,7 +35,7 @@ And as usual, the processes hold us back.
 
 #### **HUMAN decisions over AI automation**
 
-While AI can implement at speed, humans must define value, make architectural choices, and ensure ethical outcomes. The bottleneck has shifted from implementation to decision-making.
+While AI can implement at speed, humans must define value, make architectural choices, and ensure ethical outcomes. The focus has shifted from code to decision-making.
 
 #### GOAL achievement over TIME-boxed delivery
 
