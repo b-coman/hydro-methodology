@@ -19,9 +19,9 @@ layout:
 
 Just few examples:
 
-* **E-commerce platform**: 12-week authentication system → 3 weeks (with expanded scope)
-* **SaaS startup**: 3 developers → 1 developer + AI (with higher output)
-* **Enterprise migration**: 1-year project → 4 months (with better quality metrics)
+* E-commerce platform: 12-week authentication system → 3 weeks (with expanded scope)
+* SaaS startup: 3 developers → 1 developer + AI (with higher output)
+* Enterprise migration: 1-year project → 4 months (with better quality metrics)
 
 This isn't theoretical. It's happening now.
 
