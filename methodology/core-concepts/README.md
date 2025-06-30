@@ -1,6 +1,6 @@
 ---
 description: The Building Blocks of Hydro Methodology
-icon: '2'
+icon: '3'
 ---
 
 # Core Concepts

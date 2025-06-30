@@ -1,5 +1,5 @@
 ---
-icon: '4'
+icon: '5'
 ---
 
 # Enterprise Implementation

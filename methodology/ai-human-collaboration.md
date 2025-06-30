@@ -1,5 +1,5 @@
 ---
-icon: '3'
+icon: '4'
 ---
 
 # AI-Human Collaboration

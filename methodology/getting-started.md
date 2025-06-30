@@ -1,5 +1,5 @@
 ---
-icon: '5'
+icon: '6'
 ---
 
 # Getting Started
