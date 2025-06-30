@@ -28,7 +28,7 @@ Traditional methodologies were designed for purely human teams, but we now work 
 
 ### The Hydro Solution
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **The Hydro Reality**:
 

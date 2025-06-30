@@ -1,6 +1,7 @@
 # Table of contents
 
 * [hydro Introduction](README.md)
+* [NEW INTRO](new-intro.md)
 
 ## Getting Started
 

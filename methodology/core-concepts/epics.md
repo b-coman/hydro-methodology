@@ -20,7 +20,7 @@ Epics represent coherent business capabilities composed of related tasks. They s
 
 Unlike traditional Scrum where work items often fragment business capabilities across multiple sprints, Hydro's epic integrity principle ensures complete business capabilities are delivered together within waves. This maintains the Product Operating Model's connection between product strategy and code execution and eliminates the handoff friction.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Epic structure and organization**
 

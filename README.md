@@ -14,9 +14,9 @@ layout:
 
 # hydro Introduction
 
-hydro (Hybrid Development Resource Orchestration) is a methodology for managing software development in hybrid environments, where human engineers work with AI coding assistants to deliver complex features.
+hydro (Hybrid Development Resource Orchestration) is a **methodology for managing software development in hybrid environments**, where human engineers work with AI coding assistants to deliver complex features.
 
-Unlike Scrum, Kanban or other more or less popular Agile Frameworks, hydro focuses on unlocking tomorrow's development based on today's achievements. Its forward looking approach considers the increase pace in writing code and the shift of the capacity limit from engineering to decision making.
+Unlike Scrum, Kanban or other more or less popular Agile Frameworks, hydro focuses on unlocking tomorrow's development based on today's achievements. Its forward looking approach considers the **increase pace in writing code** and the **shift of the capacity limit from engineering to decision making**.
 
 Software development has changed. But we still operate with the mindset of steam-powered machines when electricity has just emerged.
 
