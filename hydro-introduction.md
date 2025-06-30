@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# NEW INTRO
+# hydro Introduction
 
 Hydro (Hybrid Development Resource Orchestration) is a **methodology for managing software development in hybrid environments**, where human engineers work alongside AI coding assistants to deliver complex features.
 
@@ -25,7 +25,7 @@ Software development is experiencing its biggest shift since the move from water
 The new reality:
 
 * **Code generation speed -** from days to hours
-* **New bottleneck -** decision-making and validation, not typing speed
+* **Focus shift -** decision-making and validation, not dev velocity
 * **Context management** - AI needs continuous context to stay effective
 * **Quality control** - humans focus on architecture, business logic, and validation
 
