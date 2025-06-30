@@ -56,7 +56,7 @@ For an AI coding hybrid environment the real constrains are context windows, dep
 
 ***
 
-### The ido4 Way
+### The hydro Way
 
 We propose a paradigm shift.
 
