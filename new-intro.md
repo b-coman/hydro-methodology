@@ -24,18 +24,16 @@ Software development is experiencing its biggest shift since the move from water
 
 The new reality:
 
-* **Code generation speed - f**rom days to hours
+* **Code generation speed -** from days to hours
 * **New bottleneck -** decision-making and validation, not typing speed
-* **Context management**: AI needs continuous context to stay effective
+* **Context management** - AI needs continuous context to stay effective
 * **Quality control** - humans focus on architecture, business logic, and validation
 
 ***
 
 ### How hydro Works
 
-hydro is aimed to solve the three core gaps that traditional frameworks don't address: **time compression** (due to increased velocity in code writing), **context fragmentation** (AI lacking persistent understanding across multiple development sessions), and **direction ambiguity** .&#x20;
-
-So we designed hydro specifically to bridge these gaps.
+hydro is aimed to solve the three core gaps that traditional frameworks don't address: **time compression**, **context fragmentation** and **direction ambiguity** . So we designed hydro specifically to bridge these gaps.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
