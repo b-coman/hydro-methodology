@@ -45,11 +45,9 @@ Core Principles:
 * **Rolling context** → maintain continuous understanding across tasks and waves
 * **Measure capabilities** → Track what becomes possible, not just what gets done
 
-***
 
-### The hydro's way
 
-We propose a paradigm shift. From _"What can our team build in 2 weeks?" &#x74;_&#x6F; _"What decision should we make next?"_
+We propose a paradigm shift. From _"What can our team build in 2 weeks?" &#x74;_&#x6F; _"What decision should we make next?"._&#x20;
 
 The real capacity limit isn't on dev teams anymore. It's on decision makers.
 
@@ -57,9 +55,9 @@ The real capacity limit isn't on dev teams anymore. It's on decision makers.
 
 ### Built for Real Teams
 
-Hydro isn't theoretical - it's based on patterns we've seen work in teams already using AI assistants. We're sharing what worked and making it repeatable.
+Hydro isn't theoretical, it's based on real work and patterns we've seen work in teams already using AI assistants. We're sharing what worked and making it repeatable.
 
-**What we're exploring**:
+**What you'll be learning:**
 
 * How to structure work for optimal human-AI collaboration
 * Ways to maintain context and quality at AI speeds
