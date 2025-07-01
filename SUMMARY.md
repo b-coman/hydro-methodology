@@ -20,7 +20,6 @@
   * [Workflow](methodology/core-concepts/workflow.md)
   * [Activities and Processes](methodology/core-concepts/activities-and-processes.md)
 * [AI-Human Collaboration](methodology/ai-human-collaboration.md)
-* [Getting Started](methodology/getting-started.md)
 
 ## More
 
@@ -29,5 +28,6 @@
 * [hydro & POM](more/hydronizing-product-operating-model.md)
 * [hydro @ Scale](more/enterprise-implementation.md)
 * [Join Pioneer Program](more/pioneer.md)
+* [Getting Started](more/getting-started.md)
 * [FAQ](more/faq.md)
 * [Contributors](more/contributors.md)
