@@ -15,17 +15,21 @@ layout:
 
 # No Brainer
 
-## The Evidence
+### The Evidence
 
-Just few examples:
+There are teams that already seeing results
 
-* E-commerce platform: 12-week authentication system → 3 weeks (with expanded scope)
-* SaaS startup: 3 developers → 1 developer + AI (with higher output)
-* Enterprise migration: 1-year project → 4 months (with better quality metrics)
+* **Property management system:** complete refactoring in 2 weeks (with expanded scope)
+* **SaaS startup:** from 3 developers to 1 developer + AI (with higher output)
+* **Enterprise migration:** 1-year project delivered in 4 months (with better quality metrics)
 
 This isn't theoretical. It's happening now.
 
-## The Simple Math
+### The Simple Math
+
+Something interesting is happening in software development. AI coding assistants have reached a level of capability where they can reliably generate working code, comprehensive tests and documentation. Yet development processes remain largely unchanged from the pre-AI era.
+
+Half the cost. Double the output. Better quality.&#x20;
 
 | Metric                   | Traditional 5-dev team | AI-assisted 2-dev team     |
 | ------------------------ | ---------------------- | -------------------------- |
@@ -34,15 +38,10 @@ This isn't theoretical. It's happening now.
 | **Technical Debt**       | Accumulating           | Managed through automation |
 | **Test Coverage**        | 60-70%                 | 90%+                       |
 
-Something interesting is happening in software development. AI coding assistants have reached a level of capability where they can reliably generate working code, comprehensive tests and documentation. Yet development processes remain largely unchanged from the pre-AI era.
-
-Half the cost. Double the output. Better quality.&#x20;
-
-## What Changed
+### What Changed
 
 AI now handles effectively:
 
-* Interface implementations from specifications
 * Test generation with comprehensive coverage
 * Boilerplate following established patterns
 * Documentation synchronized with code
@@ -53,74 +52,27 @@ Humans now focus on:
 * System architecture decisions
 * Business logic validation
 * Performance optimization strategies
-* Complex integration patterns
 * Strategic technical choices
 
-## The Mismatch
+### The Reality Check
 
-Most teams still run:
+Traditional teams spend most of their time on work AI can automate - ceremonies, boilerplate, documentation. AI-assisted teams flip this: 70% strategic work, 30% routine.
 
-* Sprint planning sessions estimating effort for tasks AI completes in minutes
-* Daily standups tracking progress on boilerplate implementation
-* Code reviews focusing on syntax rather than architecture
-* Retrospectives optimizing velocity when the real constraint is decision-making
-
-The tools evolved. The processes didn't.
-
-## Time Allocation Reality
-
-**Traditional Sprint (Human-Only)**
-
-* Ceremonies and coordination: 25-30%
-* Boilerplate and repetitive coding: 35-40%
-* Complex logic and architecture: 20-25%
-* Testing and documentation: 15-20%
-
-**AI-Assisted Development**
-
-* Strategic decisions and planning: 15-20%
-* AI oversight and validation: 25-30%
-* Complex logic and architecture: 40-45%
-* Testing and documentation: 5-10% (automated)
-
-More thinking. Less typing. Better outcomes.
-
-## The Emerging Pattern
-
-**Teams embracing AI-assisted development:**
-
-* Ship features in days, not sprints
-* Maintain 90%+ test coverage as standard
-* Respond to market changes immediately
-* Focus senior developers on architecture
-
-**Teams using traditional processes:**
-
-* Too much time spent in knowledge transfer. Too much cognitive load.
-* Struggle with technical debt
-* Maintain 60-70% test coverage (on a good day)
-* Waste senior talent on routine tasks
+The results speak for themselves: features ship in days instead of sprints, test coverage jumps from 60% to 90%+, and senior developers finally focus on architecture instead of typing.
 
 The gap widens every sprint.
 
-## Your Options
+### Your Options
 
-**Option 1**: keep current processes, fall further behind\
-**Option 2**: add AI as a "tool" without changing how you work (marginal gains)\
-**Option 3**: redesign your development process for the AI era (transformational results)
+* **Option 1**: Keep current processes, fall further behind&#x20;
+* **Option 2**: Add AI as a "tool" without changing how you work (marginal gains)&#x20;
+* **Option 3**: Redesign your development process for the AI era (transformational results)
 
 The technical part is straightforward. The organizational part requires courage to change.
 
-## The Path Forward
+### The Path Forward
 
-For teams considering this transition, the process typically involves:
-
-1. Understanding the methodology and principles
-2. Evaluating tooling options and integration requirements
-3. Planning a pilot implementation
-4. Gradual rollout with continuous refinement
-
-The technical aspects are straightforward. The organizational aspects require thoughtful change management.
+Ready to understand the principles behind this transformation? The manifesto explains how.
 
 ***
 
