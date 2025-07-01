@@ -41,6 +41,16 @@ Traditional methodologies were designed for purely human teams, but we now work 
 
 **Why "Hydro"?** Like water finding the most efficient path around obstacles, Hydro enables work to flow naturally around dependencies and constraints while maintaining direction toward business objectives.
 
+#### What You'll Learn
+
+The following sections explain how hydro works in practice:
+
+* **Flow Principles** - Why dependency-driven development works
+* **Core Concepts** - Waves, epics, tasks, and dependencies
+* **AI-Human Collaboration** - How humans and AI work together
+
+Ready to understand the underlying principles? Let's start with why flow matters.
+
 ***
 
 _Hydro methodology provides a technical framework for optimizing human-AI collaboration while maintaining enterprise quality standards._
