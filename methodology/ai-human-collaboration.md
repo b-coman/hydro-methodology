@@ -8,7 +8,7 @@ The success of Hydro methodology depends on effective collaboration between huma
 
 ### Collaboration philosophy
 
-Traditional approaches treat all tasks the same, leading to either AI under-utilization or human bottlenecks. Hydro's task classification (detailed in Core Concepts) creates a multiplication effect - AI accelerates routine work while humans focus on high-value decisions and complex problem-solving.
+Traditional approaches treat all tasks the same, which results to either AI under-utilization or human bottlenecks. Hydro's [task classification](core-concepts/tasks.md) (detailed in Core Concepts) creates a multiplication effect - AI accelerates routine work while humans focus on high-value decisions and complex problem-solving.
 
 {% hint style="success" %}
 The goal isn't to replace human expertise, but to amplify it by letting AI handle what it does best.
@@ -21,20 +21,20 @@ When properly classified, work flows through optimal collaboration patterns:
 * AI maintains documentation → Humans ensure strategic and structural alignment
 * AI processes routine complexity → Humans solve novel problems
 
-This creates unseen velocity gains while improving quality through specialized expertise application.
+This creates real velocity gains while improving quality through specialized expertise application.
 
 ***
 
 ### Collaboration Patterns in Practice
 
-Understanding how humans and AI actually work together requires clarity on where each contributes their strengths. Human expertise focuses on strategic decisions and business validation, while AI capabilities handle implementation and routine processing within defined boundaries.
+Understanding how humans and AI actually work together requires clarity on where each contributes with their strengths. Human expertise focuses on strategic decisions and business validation, while AI capabilities handle implementation and routine processing within defined boundaries.
 
 **Human Decision Gates** occur at critical junctions regardless of task classification:
 
-* Humans define business requirements and acceptance criteria
-* Humans make system design and integration decisions
-* Humans validate tests against functional and business needs
-* Humans resolve conflicts and adjust priorities
+* Define business requirements and acceptance criteria
+* Handle system design, architecture and integration decisions
+* Validate tests results against functional and business needs
+* Resolve conflicts and adjust priorities
 
 **AI Execution Boundaries** are defined by task classification and context packages:
 
@@ -89,7 +89,7 @@ AI assists with boilerplate and utility generation
 
 Effective collaboration is a key aspect in AI-human mixed environments. And this collaboration requires structured channels and patterns that optimize information flow between human strategic thinking and AI execution capabilities.
 
-The communication design - from methodology training to tooling capabilities - is a key factor for successful hybrid deployments, as there are no direct ways to communicate thoughts between the two parties. Interestingly, communications from the AI side also benefit AI itself by creating rolling context that improves subsequent interactions.
+The communication design (from methodology training to tooling capabilities) is a key factor for successful hybrid deployments, as there are no direct ways to communicate thoughts between the two parties. Interestingly, communications from the AI side also benefit AI itself by creating rolling context that improves subsequent interactions.
 
 **Human-to-AI Communication** flows through structured interfaces:
 
