@@ -76,7 +76,7 @@ We've seen these challenges before. When you get stuck, reach out.
 
 Tell us where you are and where you're stuck:
 
-\[Contact form placeholder - integrate with your preferred form service]
+{% @mailchimp/mailchimpSubscribe cta="Let's get in touch. Usually 1-working day." fullWidth="false" %}
 
 ### What You'll Learn
 
