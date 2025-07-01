@@ -74,7 +74,7 @@ We've seen these challenges before. When you get stuck, reach out.
 
 ### Contact
 
-Tell us where you are and where you're stuck:
+Tell us where you are and where you're stuck: -— contact [here](https://mailchi.mp/3a42b980f407/hydro)
 
 {% @mailchimp/mailchimpSubscribe cta="Let's get in touch. Usually 1-working day." fullWidth="false" %}
 
