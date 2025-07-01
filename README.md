@@ -14,19 +14,19 @@ layout:
 
 # hydro Introduction
 
-Hydro (Hybrid Development Resource Orchestration) is a **methodology for managing software development in hybrid environments**, where human engineers work alongside AI coding assistants to deliver complex features.
+Hydro (Hybrid Development Resource Orchestration) is a **framework for managing software development in hybrid environments**, where engineers work alongside AI coding assistants to ship production-grade features.
 
 ***
 
 ### The Evolution We're Living
 
-Software development is experiencing its biggest shift since the move from waterfall to agile. AI assistants can generate entire features in hours, but they need guidance, context, and validation to produce quality results.
+Product and software development is experiencing its biggest shift since the move from waterfall to agile. AI assistants can generate entire features in hours, but they still need a high-level of guidance, context, and validation to produce quality results.
 
 The new reality:
 
 * **Code generation speed -** from days to hours
 * **Focus shift -** decision-making and validation, not dev velocity
-* **Context management** - AI needs continuous context to stay effective
+* **Context management** - AI needs continuous context to stay on track
 * **Quality control** - humans focus on architecture, business logic, and validation
 
 ***
@@ -43,7 +43,7 @@ Core Principles:
 * **AI handles generic code** → code generation, testing, documentation, refactoring
 * **Humans make decisions** → architecture, business logic, validation, strategy
 * **Rolling context** → maintain continuous understanding across tasks and waves
-* **Measure capabilities** → Track what becomes possible, not just what gets done
+* **Measure capabilities** → track what becomes possible, not just what gets done
 
 
 
@@ -60,9 +60,9 @@ Hydro isn't theoretical, it's based on real work and patterns we've seen work in
 **What you'll be learning:**
 
 * How to structure work for optimal human-AI collaboration
-* Ways to maintain context and quality at AI speeds
-* Patterns for managing dependencies in accelerated development
-* Methods for validating AI output while maintaining velocity
+* Ways to maintain context and quality at AI speed
+* Patterns for managing dependencies in hybrid environments
+* Methods for validating AI output to maintain velocity
 
 ***
 
