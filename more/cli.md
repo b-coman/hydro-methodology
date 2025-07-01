@@ -5,51 +5,34 @@ icon: square-terminal
 
 # Tooling
 
-The Hydro methodology requires tooling that can handle dependency analysis, wave orchestration, and AI-human collaboration workflows. Traditional project management tools weren't designed for these patterns.
+As teams scale hydro, a gap becomes apparent: your AI assistant can write code but can't update Jira tickets. Traditional project management tools weren't designed for AI teammates who need to manipulate work items alongside humans.
 
-### Implementation requirements
+Effective implementation requires tooling that handles:
 
-Here are few important requirements that any tool that implement Hydro should follow and support.
-
-* Dependency-driven planning rather than time-based sprints
-* Wave assignment and tracking based on dependency analysis
+* Dependency-driven planning and wave orchestration
 * AI task classification and context management
-* Human approval gates at appropriate workflow points
-* Progress tracking focused on possibilities unlocked
+* Workflow state management with human approval gates
 
-### Reference Implementation
+### Reference Implementation: ido4
 
-`ido4` serves as the reference implementation of these patterns:
+We're developing ido4 as a reference CLI that demonstrates these patterns:
 
 ```bash
 # Core workflow patterns
-ido4 set-dependencies 42 "Depends on: #15, #20"
-ido4 assign-wave 42
-ido4 classify-task 42 ai-reviewed
-ido4 status --waves
+ido4 set-dependencies 42 "Depends on: #15, #20"  # Link task dependencies
+ido4 assign-wave 42                              # Add task to wave
+ido4 classify-task 42 ai-ready                   # Set AI coding level
+ido4 status --waves                              # Show wave progress
 ```
 
-**Platform support:** GitHub Projects, Jira (in development)\
-**AI assistant support:** Claude Code, Gemini CLI, OpenAI Codex (planned)\
-**Status:** Active development, early access available
+**Status:** active development\
+**Early access:** [contact](https://mailchi.mp/3a42b980f407/hydro) us for pilot program
 
-### Integration Considerations
+### Tool-Agnostic Approach
 
-Effective Hydro implementation requires:
+The methodology works with any tooling approach. Teams are building solutions using GitHub Projects, Jira, Azure DevOps, and custom implementations.
 
-* Project management integration - visualization and hybrid team collaboration
-* Workflow state management - this goes beyond standard project tools
-* AI assistant integration - context and execution management
-* Team analytics - workflow optimization
-
-### Alternative Implementations
-
-Hydro methodology is tool-agnostic. Teams could build implementations using:
-
-* Other project management platforms (Jira, Linear, Azure DevOps)
-* Different AI coding assistants (GitHub Copilot, custom solutions)
-* Alternative CLI approaches
-* Integration with existing dev tools
+The key is enabling AI to participate in work management, not just code generation.
 
 ***
 
