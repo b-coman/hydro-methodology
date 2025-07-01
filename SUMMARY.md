@@ -11,7 +11,7 @@
 ## HYDRO METHODOLOGY <a href="#methodology" id="methodology"></a>
 
 * [Overview](methodology/overview.md)
-* [Flow Principles](methodology/flow-principles.md)
+* [Flow - why hydro works](methodology/flow-principles.md)
 * [Core Concepts](methodology/core-concepts/README.md)
   * [Waves](methodology/core-concepts/waves.md)
   * [Epics](methodology/core-concepts/epics.md)

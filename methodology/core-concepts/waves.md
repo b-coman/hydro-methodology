@@ -16,11 +16,11 @@ layout:
 
 ### Waves = execution units
 
-A wave represents a self-contained and self-suficient group of work that delivers tested and accepted functionality.&#x20;
+A wave represents a self-contained and self-sufficient group of work that delivers tested and accepted functionality.
 
-Waves can be seen as the marriage of sprints (delivery focus) and epics (business focus), optimized for AI-assisted development.
+Waves are how the [flow principle](../flow-principles.md) manifests in practice --> the visible execution units where dependency-driven work actually happens. They can be seen as the marriage of sprints (delivery focus) and epics (business focus), optimized for AI-assisted development.
 
-The wave concept replaces the sprints in the regular Scrum, as the time box doesn't make any sense in a setting where the activity of writing code can be reduced to hours.
+The wave concept replaces time-boxed sprints, since artificial time boundaries don't make sense when code can be implemented in hours.
 
 **Waves characteristics:**
 

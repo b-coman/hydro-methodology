@@ -13,9 +13,11 @@ layout:
     visible: true
 ---
 
-# Flow Principles
+# Flow - why hydro works
 
-Flow principles explain why dependency-driven development works better than time-boxed sprints in the AI era. Understanding these principles helps teams implement hydro effectively and adapt it to their specific context.
+This part explains why dependency-driven development works better than time-boxed sprints in the AI era. Understanding these principles helps teams implement hydro effectively and adapt it to their specific context.
+
+Flow is not a thing you track or manage, it's the underlying principle that makes hydro work. Like gravity enables water to find its path, the flow principle enables work to find its natural progression through dependencies rather than artificial time constraints.
 
 ## Dependency-Driven Flow vs Time-Boxing
 
