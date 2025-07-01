@@ -8,7 +8,7 @@ icon: message-question
 
 <summary>Does this replace Agile?</summary>
 
-It evolves Agile for the AI era. Core values remain, but practices adapt—dependency-driven waves instead of sprints, possibility expansion instead of story points.
+hydro just evolves on Agile for the AI era. Core values remain, but practices adapt. Dependency-driven waves instead of sprints, possibility expansion instead of story points.
 
 </details>
 
@@ -16,13 +16,15 @@ It evolves Agile for the AI era. Core values remain, but practices adapt—depen
 
 <summary>How is this different from just adding AI tools to Agile?</summary>
 
-Most approaches add AI as assistants to existing processes. HASDM redesigns the entire workflow around AI capabilities, optimizing planning and execution patterns for AI-human collaboration.
+Most approaches add AI as assistants to existing processes. hydro redesigns the entire workflow around AI capabilities, with an important focus on keeping AI right on track.
+
+Quality, production-grade software requires adpated ways of work. AI assistants are powerful tools, but for a real resource orchestration, there's more to be done.
 
 </details>
 
 <details>
 
-<summary>What AI tools do we need?</summary>
+<summary>What AI tools do I need?</summary>
 
 The methodology is tool-agnostic. Most teams use code-capable AI assistants like GitHub Copilot, Claude, or similar tools that can generate working code from specifications.
 
@@ -30,41 +32,11 @@ The methodology is tool-agnostic. Most teams use code-capable AI assistants like
 
 <details>
 
-<summary>How long does adoption take?</summary>
-
-Teams see initial results in 2-3 weeks and significant improvements by month 2. Full proficiency typically takes 2-3 months.
-
-</details>
-
-<details>
-
-<summary>Is this only for greenfield projects?</summary>
+<summary>Is this only for new projects?</summary>
 
 No. It works for new development, maintenance, and modernization projects. Any project with clear technical requirements and dependencies can benefit.
 
-</details>
-
-<details>
-
-<summary>Can we start with a smaller pilot?</summary>
-
-Yes. Many teams start with 2-3 developers on a low-risk project. The methodology works at any scale and starting small allows validation before broader adoption.
-
-</details>
-
-<details>
-
-<summary>What happens when AI makes mistakes?</summary>
-
-The methodology includes human validation based on task classification. AI-generated code goes through standard review processes, often with better test coverage than traditional development.
-
-</details>
-
-<details>
-
-<summary>How do we measure success with this methodology?</summary>
-
-Track Possibility Expansion Rate (tasks unlocked per task completed), wave completion efficiency, and capabilities delivered. Quality metrics typically improve due to comprehensive automated testing.
+Especially mature projects pose very serious development chalanges in AI-generative world - limited context windows vs large repositories. hydro provides the tools and techniques to address complex situations.
 
 </details>
 
