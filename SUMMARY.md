@@ -28,6 +28,6 @@
 * [hydro & POM](more/hydronizing-product-operating-model.md)
 * [hydro @ Scale](more/enterprise-implementation.md)
 * [Join Pioneer Program](more/pioneer.md)
-* [Getting Started](more/getting-started.md)
+* [Get Started](more/getting-started.md)
 * [FAQ](more/faq.md)
 * [Contributors](more/contributors.md)
