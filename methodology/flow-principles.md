@@ -1,16 +1,5 @@
 ---
 icon: '2'
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Flow - why hydro works
@@ -55,7 +44,7 @@ Flow happens when (hybrid) teams create the right conditions:
 
 **Quality gates →** work progresses when it meets quality standards, not when the calendar says it should.
 
-**Continuous availability →** if there is the case, AI can work 24/7. Human reviews happen asynchronously. No bottlenecks from timezone differences or meeting schedules.
+**Continuous availability →** if there is the case, AI can work 24/7. Human reviews happen asynchronously. No bottlenecks from time zone differences or meeting schedules.
 
 You know "you're in the flow" when:
 

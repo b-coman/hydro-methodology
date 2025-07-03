@@ -1,16 +1,5 @@
 ---
 icon: bullseye-arrow
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # No Brainer
@@ -53,6 +42,42 @@ Humans now focus on:
 * Business logic validation
 * Performance optimization strategies
 * Strategic technical choices
+* Sprint planning sessions estimating effort for tasks AI completes in minutes
+* Daily standups tracking progress on boilerplate implementation
+* Code reviews focusing on syntax rather than architecture
+* Retrospectives optimizing velocity when the real constraint is decision-making
+* Sprint planning sessions estimating effort for tasks which AI completes in minutes
+* Daily standups identifying blockers which AI can discover easily
+* Code reviews focusing on syntax rather than architecture
+* Retrospectives optimizing velocity when the real constraint is decision-making
+
+**Traditional Development (Human-Only)**
+
+* Ceremonies and coordination: 25-30%
+* Boilerplate and repetitive coding: 35-40%
+* Complex logic and architecture: 20-25%
+* Testing and documentation: 15-20%
+* Strategic decisions and planning: 15-20%
+* AI oversight and validation: 25-30%
+* Complex logic and architecture: 40-45%
+* Testing and documentation: 5-10% (automated)
+* Strategic decisions and planning: 15-20%
+* Ceremonies and coordination: ?
+* AI oversight and validation: 25-30%
+* Complex logic and architecture: 40-45%
+* Testing and documentation: 5-10% (automated)
+* Ship features in days, not sprints
+* Maintain 90%+ test coverage as standard
+* Respond to market changes immediately
+* Focus senior developers on architecture
+* Ship features in days, not two-week iterations
+* Maintain 90%+ test coverage as standard
+* Respond to market changes immediately
+* Focus senior developers on architecture
+
+**Option 1**: keep current processes and risk falling further behind\
+**Option 2**: add AI as a "tool" without changing how you work (marginal gains)\
+**Option 3**: redesign your development process for the AI era (transformational results)
 
 ### The Reality Check
 

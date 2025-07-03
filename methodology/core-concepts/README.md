@@ -9,7 +9,7 @@ Hydro isn't hard. Comparing with any Agile denomination, it flows more naturally
 
 Hydro is first and foremost a simplified Agile methodology ready to be used in a hybdrid environment. It is organized around few essential concepts:
 
-1. core elements / or work items let's say
+1. core elements / work items
 2. workflow
 3. activities
 4. tools

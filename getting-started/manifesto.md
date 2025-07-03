@@ -11,7 +11,7 @@ We stand at an inflection point. AI can now write entire systems in hours (or we
 
 **We need more than productivity improvements. We need a fundamental shift in how software development is seen.**
 
-The constraints that shaped our methodologies - human typing speed, 9to5 working hours and timezone distribution, variable code quality - no longer apply. But we still use processes designed for a world that no longer exists.&#x20;
+The constraints that shaped our methodologies - human typing speed, 9-to-5 working hours and time zone distribution, variable code quality - no longer apply. But we still use processes designed for a world that no longer exists.&#x20;
 
 And as usual, the processes hold us back.
 
