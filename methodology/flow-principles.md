@@ -58,7 +58,7 @@ You know "you're in the flow" when:
 
 ## Epic Integrity and Business Value
 
-An important principle: **epics flow as complete units.** When a business capability requires five tasks, all five travel together through the same wave. This ensures:
+An important principle: **epics flow as complete units.** When a business capability requires five tasks, all five travel together through the same wave. This enables and empower DDD, SoC, unitary value delivery and dependency containment.
 
 Splitting epics across time boundaries fragments value delivery. In flow-based development, business capabilities remain intact.
 
