@@ -4,17 +4,9 @@ icon: bullseye-arrow
 
 # No Brainer
 
-### The Evidence
+###
 
-There are teams that already seeing results
-
-* **Property management system:** complete refactoring in 2 weeks (with expanded scope)
-* **SaaS startup:** from 3 developers to 1 developer + AI (with higher output)
-* **Enterprise migration:** 1-year project delivered in 4 months (with better quality metrics)
-
-This isn't theoretical. It's happening now.
-
-### The Simple Math
+### A Simple Math
 
 Something interesting is happening in software development. AI coding assistants have reached a level of capability where they can reliably generate working code, comprehensive tests and documentation. Yet development processes remain largely unchanged from the pre-AI era.
 
@@ -42,12 +34,6 @@ Humans now focus on:
 * Business logic validation
 * Performance optimization strategies
 * Strategic technical choices
-
-### The Reality Check
-
-Traditional teams spend most of their time on work AI can automate - ceremonies, boilerplate, documentation. AI-assisted teams flip this: 70% strategic work, 30% routine.
-
-The results speak for themselves: production-grade features ship in days instead of sprints, test coverage jumps from 60% to 90%+, and senior developers finally focus on architecture instead of typing.
 
 ### Your Options
 
