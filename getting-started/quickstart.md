@@ -4,7 +4,7 @@ icon: bullseye-arrow
 
 # No Brainer
 
-###
+
 
 ### A Simple Math
 
